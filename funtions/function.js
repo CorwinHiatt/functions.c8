@@ -7,5 +7,6 @@ const subtract = require("./minus.js")
 
 //const sum = addTwo(3,4)
 //console.log(sum)
-const total = subtract(10,5)
-console.log(total * 2)
+// const total = subtract(10,5)
+// console.log(total)
+console.log(subtract(2, 50))
